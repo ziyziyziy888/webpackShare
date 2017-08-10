@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/ziyziyziy888/webpackTrain/issues"
   },
-  "homepage": "https://github.com/ziyziyziy888/webpackTrain#readme"
+  "homepage": "https://github.com/ziyziyziy888/webpackTrain#readme",
+  "devDependencies": {
+    "webpack": "^3.5.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
